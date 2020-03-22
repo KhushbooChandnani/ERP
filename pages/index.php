@@ -49,12 +49,7 @@ require_once("includes/functions.php");
         <!-- END HEADER & CONTENT DIVIDER -->
         <!-- BEGIN CONTAINER -->
         <div class="page-container">
-            <!-- BEGIN SIDEBAR -->
-            <?php
-            require_once("includes/sidebar.php");
-            ?>
-            <!-- END SIDEBAR -->
-
+          
             <!-- BEGIN CONTENT -->
             <div class="page-content-wrapper">
                 <!-- BEGIN CONTENT BODY -->
